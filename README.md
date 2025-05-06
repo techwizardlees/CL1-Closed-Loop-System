@@ -2,7 +2,7 @@
 CL1 Closed-Loop Fuel & Fertilizer System
 ----------------------------------------
 
-Original Author: [User's Alias or Name Here]
+Original Author: EVAN LEE JIALONG
 Co-developed with: ChatGPT (OpenAI language model)
 Date of Public Acknowledgement: 2025-05-06 11:41:09 UTC
 
