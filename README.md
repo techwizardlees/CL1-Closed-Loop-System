@@ -21,3 +21,16 @@ Proof-of-Witness:
 This document chain and accompanying files were developed in-session with OpenAI’s ChatGPT, which retains timestamped logs and version history for independent verification if challenged.
 
 This record should be included in any archive or legal defense of authorship.
+---
+
+### 📄 Official Licensing & Archival Record
+
+- **Zenodo DOI**: [10.5281/zenodo.15350432](https://doi.org/10.5281/zenodo.15350432)  
+- **OSF Archive**: [https://osf.io/vjbk8/](https://osf.io/vjbk8/)  
+- **License**: [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)  
+- **Author**: Evan Jialong Lee
+
+This repository is publicly timestamped and mirrored across academic-grade archives.  
+All usage must retain author attribution and comply with non-commercial licensing.
+
+---
